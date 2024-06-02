@@ -18,4 +18,9 @@ int main()
     cin >> a;
     int i = 1;
     pn(a,i);
+    cout << endl;
+    int b = 10;
+
+    //print from 6 to 10
+    pn(b,6);
 }
